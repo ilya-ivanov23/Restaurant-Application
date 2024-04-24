@@ -1,0 +1,29 @@
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\Restaurant Application.exe.config
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\Restaurant Application.exe
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\Restaurant Application.pdb
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\EntityFramework.dll
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\EntityFramework.xml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.csproj.AssemblyReference.cache
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\MainWindow.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\AddFoodItems.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\GenerateBill.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\NewOrderPlace.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\UpdateOrders.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\App.g.cs
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application_MarkupCompile.cache
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application_MarkupCompile.lref
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\MainWindow.baml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\AddFoodItems.baml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\GenerateBill.baml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\NewOrderPlace.baml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Page Screens\UpdateOrders.baml
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.g.resources
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant_Application.Properties.Resources.resources
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.csproj.GenerateResource.cache
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.csproj.CoreCompileInputs.cache
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.csproj.CopyComplete
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.exe
+C:\Users\191421\Downloads\Restaurant-Application-master\Restaurant Application\obj\Debug\Restaurant Application.pdb
